@@ -1,4 +1,4 @@
-> **Warning:** This is a work in progress!! None of the stuff I wrote below this line has been implemented yet, and a lot of it is probably going to change!!
+> **Warning:** This is a work in progress!! None of the stuff I wrote below this line has been implemented yet, and a lot of it is probably going to change!! The only stuff that has been implemented yet is the parser and lexer.
 
 # Litsp
 
